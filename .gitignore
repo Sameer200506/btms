@@ -1,0 +1,7 @@
+# COMSOL model files above GitHub's 100 MB limit (keep locally / use LFS)
+BTMS*.mph
+*.lock
+
+# misc
+.DS_Store
+Thumbs.db
